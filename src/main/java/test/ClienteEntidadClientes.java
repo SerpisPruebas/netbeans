@@ -11,6 +11,7 @@ import org.apache.logging.log4j.*;
  * @author marmin
  * @version 1.0
  * esto es una prueba
+ * esto es otra prueba
  */
 public class ClienteEntidadClientes {
     static Logger log= LogManager.getRootLogger();
